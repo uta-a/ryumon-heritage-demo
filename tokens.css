@@ -1,0 +1,33 @@
+:root {
+  --color-brand: #9b3028;
+  --color-brand-deep: #531f22;
+  --color-canvas: #f5f0e6;
+  --color-text: #272321;
+  --color-ochre: #d8b459;
+  --color-earth: #79583d;
+  --color-surface: #fffdf9;
+  --color-border: #d8cec1;
+  --color-muted: #625b55;
+  --color-focus: #144f8a;
+  --color-paper: var(--color-canvas);
+  --color-paper-light: var(--color-surface);
+  --color-ink: var(--color-text);
+  --color-accent: var(--color-brand-deep);
+  --color-red: var(--color-brand);
+  --color-deep: var(--color-brand-deep);
+  --color-dark: #1d1c19;
+  --color-line: var(--color-border);
+  --color-white: var(--color-surface);
+  --color-overlay: #1d120fb3;
+  --color-paper-veil: #f5f0e6b3;
+  --color-deep-veil: #531f2299;
+  --color-transparent: transparent;
+  --font-display: 'Noto Serif JP', 'Yu Mincho', serif;
+  --font-body: 'Noto Sans JP', 'Hiragino Kaku Gothic ProN', sans-serif;
+  --space-sm: 8px;
+  --space-md: 16px;
+  --space-lg: 24px;
+  --space-xl: 48px;
+  --ease-out: cubic-bezier(.2,.7,.3,1);
+  --dur-fast: 180ms;
+}

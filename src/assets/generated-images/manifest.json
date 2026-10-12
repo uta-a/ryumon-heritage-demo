@@ -1,0 +1,176 @@
+{
+  "model": "openai-codex/gpt-image-2",
+  "reported_model": "gpt-image-2-codex",
+  "provider": "openai-codex",
+  "purpose": "AI-generated non-photorealistic editorial illustrations; not photographs of Ryumon people, premises, rituals or products. Temple illustration references real Bulguksa architecture for cultural context only.",
+  "images": [
+    {
+      "name": "access",
+      "original": "src/assets/generated-images/access.webp",
+      "web": "public/images/access.webp",
+      "prompt": "image-generation-prompts/access.md",
+      "width": 1536,
+      "height": 1024,
+      "original_size": [
+        1536,
+        1024
+      ],
+      "bytes": 165192
+    },
+    {
+      "name": "candle",
+      "original": "src/assets/generated-images/candle.webp",
+      "web": "public/images/candle.webp",
+      "prompt": "image-generation-prompts/candle.md",
+      "width": 1600,
+      "height": 728,
+      "original_size": [
+        1860,
+        846
+      ],
+      "bytes": 102464
+    },
+    {
+      "name": "craft",
+      "original": "src/assets/generated-images/craft.webp",
+      "web": "public/images/craft.webp",
+      "prompt": "image-generation-prompts/craft.md",
+      "width": 1600,
+      "height": 582,
+      "original_size": [
+        2079,
+        756
+      ],
+      "bytes": 123404
+    },
+    {
+      "name": "hero",
+      "original": "src/assets/generated-images/hero.webp",
+      "web": "public/images/hero.webp",
+      "prompt": "image-generation-prompts/hero.md",
+      "width": 1536,
+      "height": 1024,
+      "original_size": [
+        1536,
+        1024
+      ],
+      "bytes": 201788
+    },
+    {
+      "name": "incense",
+      "original": "src/assets/generated-images/incense.webp",
+      "web": "public/images/incense.webp",
+      "prompt": "image-generation-prompts/incense.md",
+      "width": 1200,
+      "height": 1200,
+      "original_size": [
+        1254,
+        1254
+      ],
+      "bytes": 165094
+    },
+    {
+      "name": "prayer",
+      "original": "src/assets/generated-images/prayer.webp",
+      "web": "public/images/prayer.webp",
+      "prompt": "image-generation-prompts/prayer.md",
+      "width": 1536,
+      "height": 1024,
+      "original_size": [
+        1536,
+        1024
+      ],
+      "bytes": 140806
+    },
+    {
+      "name": "robes",
+      "original": "src/assets/generated-images/robes.webp",
+      "web": "public/images/robes.webp",
+      "prompt": "image-generation-prompts/robes.md",
+      "width": 1536,
+      "height": 1024,
+      "original_size": [
+        1536,
+        1024
+      ],
+      "bytes": 398140
+    },
+    {
+      "name": "saju",
+      "original": "src/assets/generated-images/saju.webp",
+      "web": "public/images/saju.webp",
+      "prompt": "image-generation-prompts/saju.md",
+      "width": 1600,
+      "height": 728,
+      "original_size": [
+        1860,
+        846
+      ],
+      "bytes": 89730
+    },
+    {
+      "name": "shop",
+      "original": "src/assets/generated-images/shop.webp",
+      "web": "public/images/shop.webp",
+      "prompt": "image-generation-prompts/shop.md",
+      "width": 1536,
+      "height": 1024,
+      "original_size": [
+        1536,
+        1024
+      ],
+      "bytes": 164960
+    },
+    {
+      "name": "talisman",
+      "original": "src/assets/generated-images/talisman.webp",
+      "web": "public/images/talisman.webp",
+      "prompt": "image-generation-prompts/talisman.md",
+      "width": 1600,
+      "height": 728,
+      "original_size": [
+        1860,
+        846
+      ],
+      "bytes": 122840
+    },
+    {
+      "name": "teacher",
+      "original": "src/assets/generated-images/teacher.webp",
+      "web": "public/images/teacher.webp",
+      "prompt": "image-generation-prompts/teacher.md",
+      "width": 1600,
+      "height": 640,
+      "original_size": [
+        1983,
+        793
+      ],
+      "bytes": 126850
+    },
+    {
+      "name": "temple",
+      "original": "src/assets/generated-images/temple.webp",
+      "web": "public/images/temple.webp",
+      "prompt": "image-generation-prompts/temple.md",
+      "width": 1536,
+      "height": 1024,
+      "original_size": [
+        1536,
+        1024
+      ],
+      "bytes": 424392,
+      "reference": {
+        "building": "Geungnakjeon Hall, Bulguksa, Gyeongju, South Korea",
+        "purpose": "Cultural architecture illustration, not Ryumon premises",
+        "local_file": "src/assets/reference-images/bulguksa-geungnakjeon-reference.jpg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Geungnakjeon,_Bulguksa_01.jpg",
+        "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Geungnakjeon%2C_Bulguksa_01.jpg/1280px-Geungnakjeon%2C_Bulguksa_01.jpg",
+        "author": "Bernard Gagnon",
+        "photo_date": "2022-10-06",
+        "license": "CC0 1.0",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "changes": "AI-generated watercolor illustration; people and lettering omitted; resized and recompressed for web"
+      }
+    }
+  ]
+}

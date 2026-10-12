@@ -1,0 +1,10 @@
+.git/
+node_modules/
+dist/
+.env
+.env.*
+提出用/
+design-comp/
+image-generation-prompts/
+src/assets/
+DESIGN.md

@@ -1,0 +1,9 @@
+{
+  "name": "ryumon-spiritual-heritage",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": { "dev": "vite --host 0.0.0.0", "build": "tsc && vite build", "preview": "vite preview --host 0.0.0.0" },
+  "dependencies": { "@fontsource/noto-serif-jp": "^5.2.8", "@fontsource/noto-sans-jp": "^5.2.8" },
+  "devDependencies": { "typescript": "~5.9.3", "vite": "^7.1.9" }
+}

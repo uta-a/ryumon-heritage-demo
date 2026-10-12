@@ -1,0 +1,17 @@
+﻿name,type,description,usage,size,note
+backgrounds/01_ivory_floral_bg.png,background,生成り＋淡い花文様,Hero・About,1920x1080,生成画像一覧から切り出して拡大した素材。元ピクセルは低解像度
+backgrounds/02_blossom_left_bg.png,background,淡桃色の花枝・左寄せ,About,1920x1080,生成画像一覧から切り出して拡大した素材。元ピクセルは低解像度
+backgrounds/03_blossom_right_bg.png,background,淡桃色の花枝・右寄せ,About・Contact,1920x1080,生成画像一覧から切り出して拡大した素材。元ピクセルは低解像度
+backgrounds/04_crimson_damask_bg.png,background,深紅の伝統文様,Services,1920x1080,生成画像一覧から切り出して拡大した素材。元ピクセルは低解像度
+backgrounds/05_crimson_lotus_bg.png,background,深紅＋蓮の線画,Ritual,1920x1080,生成画像一覧から切り出して拡大した素材。元ピクセルは低解像度
+backgrounds/06_ivory_corner_pattern_bg.png,background,生成り＋左下の花柄,Teacher,1920x1080,生成画像一覧から切り出して拡大した素材。元ピクセルは低解像度
+backgrounds/07_charcoal_gold_cloud_bg.png,background,墨黒＋古金の雲文様,Teacher・Quote,1920x1080,生成画像一覧から切り出して拡大した素材。元ピクセルは低解像度
+backgrounds/08_blossom_dense_bg.png,background,花枝＋生成り,Flow,1920x1080,生成画像一覧から切り出して拡大した素材。元ピクセルは低解像度
+backgrounds/09_blossom_side_bg.png,background,薄桃色の花枝,Contact,1920x1080,生成画像一覧から切り出して拡大した素材。元ピクセルは低解像度
+backgrounds/10_burgundy_fabric_bg.png,background,金色花柄の赤い布,Accent,1920x1080,生成画像一覧から切り出して拡大した素材。元ピクセルは低解像度
+backgrounds/11_gold_parchment_bg.png,background,黄土色の和紙風,Craft,1920x1080,生成画像一覧から切り出して拡大した素材。元ピクセルは低解像度
+backgrounds/12_deep_red_paper_bg.png,background,深紅の紙風,Footer,1920x1080,生成画像一覧から切り出して拡大した素材。元ピクセルは低解像度
+backgrounds/13_plain_ivory_paper_bg.png,background,装飾の少ない生成り,General,1920x1080,生成画像一覧から切り出して拡大した素材。元ピクセルは低解像度
+overlays/14_gold_cloud_ornament.png,transparent_overlay,古金の雲文様,Hero・Footer,1436x768,白背景除去による透過処理。縁の品質は用途に応じ確認
+overlays/15_gold_lotus_ornament.png,transparent_overlay,古金の蓮の線画,Teacher・Ritual,1436x768,白背景除去による透過処理。縁の品質は用途に応じ確認
+overlays/16_pink_blossom_ornament.png,transparent_overlay,淡桃色の花枝,About・Flow,1436x768,白背景除去による透過処理。縁の品質は用途に応じ確認
